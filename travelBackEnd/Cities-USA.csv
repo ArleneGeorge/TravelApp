@@ -1,0 +1,806 @@
+city,country,region,latitude,longitude
+Utqiagvik,United States of America,Alaska,71.290558,-156.788605
+Fairbanks,United States of America,Alaska,64.835365,-147.776749
+Anchorage,United States of America,Alaska,61.217381,-149.863129
+Prichard Mobile,United States of America,Alaska,30.73918,-88.080482
+Montgomery,United States of America,Alabama,32.361668,-86.279167
+Auburn,United States of America,Alabama,32.609856,-85.480782
+Hoover,United States of America,Alabama,33.405746,-86.811546
+Decatur,United States of America,Alabama,34.603817,-86.985039
+Smiths Station,United States of America,Alabama,32.540138,-85.098549
+Russellville,United States of America,Alabama,34.501942,-87.731789
+Dothan,United States of America,Alabama,31.223812,-85.393356
+Tuscaloosa,United States of America,Alabama,33.189281,-87.565155
+Mobile,United States of America,Alabama,30.695366,-88.039894
+Birmingham,United States of America,Alabama,33.543682,-86.779633
+Tarrant,United States of America,Alabama,33.589027,-86.768127
+Florence,United States of America,Alabama,34.799809,-87.677254
+Huntsville,United States of America,Alabama,34.738228,-86.601791
+Oxford,United States of America,Alabama,33.614269,-85.834969
+Fort Mitchell,United States of America,Alabama,32.341537,-85.021599
+Hot Springs,United States of America,Arkansas,34.496212,-93.05722
+Fayetteville,United States of America,Arkansas,36.082157,-94.171852
+Jonesboro,United States of America,Arkansas,35.835575,-90.705025
+Turrell,United States of America,Arkansas,35.379807,-90.257874
+Pine Bluff,United States of America,Arkansas,34.2244,-92.019211
+Little Rock,United States of America,Arkansas,34.746483,-92.289597
+Springdale,United States of America,Arkansas,36.186745,-94.128815
+Texarkana,United States of America,Arkansas,33.441792,-94.037689
+Tuba City,United States of America,Arizona,36.136906,-111.240173
+Chandler,United States of America,Arizona,33.307575,-111.84494
+Ozark,United States of America,Arkansas,35.489746,-93.824272
+Pocahontas,United States of America,Arkansas,36.264206,-90.96199
+Surprise,United States of America,Arizona,33.630554,-112.366669
+Yuma,United States of America,Arizona,32.698437,-114.650398
+Peoria,United States of America,Arizona,33.580944,-112.237068
+Tempe,United States of America,Arizona,33.427204,-111.939896
+Phoenix,United States of America,Arizona,33.448376,-112.074036
+Casa Grande,United States of America,Arizona,32.881893,-111.768036
+Casas Adobes,United States of America,Arizona,32.319054,-111.001053
+Flagstaff,United States of America,Arizona,35.198284,-111.651299
+Mohave Valley,United States of America,Arizona,34.93306,-114.588852
+Prescott Valley,United States of America,Arizona,34.610023,-112.31572
+San Tan Valley,United States of America,Arizona,33.170277,-111.57222
+Avondale,United States of America,Arizona,33.435596,-112.349602
+Gilbert,United States of America,Arizona,33.360355,-111.801682
+Kingman,United States of America,Arizona,35.189442,-114.053009
+Apache Junction,United States of America,Arizona,33.415051,-111.549576
+Tucson,United States of America,Arizona,32.25346,-110.911789
+Mesa,United States of America,Arizona,33.424564,-111.833267
+Scottsdale,United States of America,Arizona,33.501324,-111.925278
+Glendale,United States of America,Arizona,33.548264,-112.191696
+Vista,United States of America,California,33.193611,-117.241112
+San Mateo,United States of America,California,37.554169,-122.313057
+Jurupa Valley,United States of America,California,34,-117.48333
+Antioch,United States of America,California,38.005001,-121.805832
+Murrieta,United States of America,California,33.569443,-117.202499
+El Monte,United States of America,California,34.073334,-118.027496
+Fairfield,United States of America,California,38.257778,-122.054169
+Berkeley,United States of America,California,37.871666,-122.272781
+Visalia,United States of America,California,36.316666,-119.300003
+Pasadena,United States of America,California,34.156113,-118.131943
+Escondido,United States of America,California,33.124722,-117.080833
+Corona,United States of America,California,33.866669,-117.566666
+Elk Grove,United States of America,California,38.438332,-121.381943
+Oceanside,United States of America,California,33.211666,-117.325836
+Modesto,United States of America,California,37.661388,-120.994446
+Irvine,United States of America,California,33.669445,-117.823059
+Redwood City,United States of America,California,37.487846,-122.236115
+Forestville,United States of America,California,38.473625,-122.889992
+Palm Springs,United States of America,California,33.830517,-116.545601
+Diamond Bar,United States of America,California,34.028622,-117.810333
+Santa Clarita,United States of America,California,34.391663,-118.542587
+Santee,United States of America,California,32.838383,-116.973915
+Bay Point,United States of America,California,38.033878,-121.960709
+Yorba Linda,United States of America,California,33.888504,-117.813255
+Rancho Cucamonga,United States of America,California,34.110489,-117.594429
+Orange,United States of America,California,33.787914,-117.853104
+Indio,United States of America,California,33.720577,-116.215561
+Long Beach,United States of America,California,33.77005,-118.193741
+Alameda,United States of America,California,37.765205,-122.241638
+Walnut Creek,United States of America,California,37.910076,-122.065186
+Temecula,United States of America,California,33.487007,-117.143784
+Hesperia,United States of America,California,34.426388,-117.30088
+Oakland,United States of America,California,37.804363,-122.271111
+Lancaster,United States of America,California,34.686787,-118.15416
+Santa Cruz,United States of America,California,36.974117,-122.030792
+Daly City,United States of America,California,37.687923,-122.470207
+Victorville,United States of America,California,34.536217,-117.292763
+Fontana,United States of America,California,34.092232,-117.435051
+Soulsbyville,United States of America,California,37.984646,-120.263802
+Richmond,United States of America,California,37.935757,-122.347748
+Baldwin Park,United States of America,California,34.085285,-117.960899
+El Centro,United States of America,California,32.793877,-115.561516
+San Bernardino,United States of America,California,34.115784,-117.302399
+Poway,United States of America,California,32.96273,-117.03624
+Rio Linda,United States of America,California,38.691013,-121.448563
+Bellflower,United States of America,California,33.88221,-118.117981
+Hanford,United States of America,California,36.327728,-119.645912
+Inglewood,United States of America,California,33.961018,-118.35537
+Lompoc,United States of America,California,34.639149,-120.457939
+Torrance,United States of America,California,33.840763,-118.345413
+Roseville,United States of America,California,38.752125,-121.28801
+Perris,United States of America,California,33.78252,-117.228645
+Mission Viejo,United States of America,California,33.600021,-117.671997
+Madera,United States of America,California,36.95953,-120.062866
+Vacaville,United States of America,California,38.356579,-121.987747
+Encinitas,United States of America,California,33.039139,-117.295425
+Fremont,United States of America,California,37.548271,-121.988571
+West Covina,United States of America,California,34.068623,-117.93895
+Pico Rivera,United States of America,California,33.98307,-118.096733
+Palmdale,United States of America,California,34.579449,-118.109291
+Redondo Beach,United States of America,California,33.849182,-118.388405
+Huntington Beach,United States of America,California,33.660057,-117.99897
+Brea,United States of America,California,33.916679,-117.900063
+El Cajon,United States of America,California,32.794773,-116.962524
+Chula Vista,United States of America,California,32.639954,-117.106705
+Alhambra,United States of America,California,34.095287,-118.127014
+Mountain View,United States of America,California,37.386051,-122.083855
+Rancho Cordova,United States of America,California,38.589073,-121.302727
+San Diego,United States of America,California,32.715736,-117.161087
+Glendale,United States of America,California,34.142509,-118.255074
+Turlock,United States of America,California,37.494656,-120.846596
+Napa,United States of America,California,38.297539,-122.286865
+ThoUnited States of Americand Oaks,United States of America,California,34.170563,-118.837593
+Newark,United States of America,California,37.529659,-122.040237
+Burbank,United States of America,California,34.18084,-118.308968
+Arden-Arcade,United States of America,California,38.600807,-121.377037
+Petaluma,United States of America,California,38.244923,-122.626991
+Novato,United States of America,California,38.108086,-122.57515
+Altadena,United States of America,California,34.190163,-118.131317
+Clovis,United States of America,California,36.82523,-119.702919
+Gilroy,United States of America,California,37.005783,-121.568275
+Dublin,United States of America,California,37.702152,-121.935791
+Hayward,United States of America,California,37.668819,-122.080795
+Livermore,United States of America,California,37.681873,-121.768005
+Tracy,United States of America,California,37.739651,-121.425224
+Redding,United States of America,California,40.58654,-122.391678
+Chico,United States of America,California,39.728493,-121.837479
+Milpitas,United States of America,California,37.432335,-121.899574
+Norwalk,United States of America,California,33.902237,-118.081734
+Concord,United States of America,California,37.989128,-122.043686
+Dana Point,United States of America,California,33.466972,-117.698105
+La Habra,United States of America,California,33.931957,-117.946175
+Covina,United States of America,California,34.090008,-117.890343
+Pomona,United States of America,California,34.055103,-117.749992
+Newport Beach,United States of America,California,33.628342,-117.927933
+Ventura,United States of America,California,34.274647,-119.229034
+Palo Alto,United States of America,California,37.468319,-122.143936
+Moreno Valley,United States of America,California,33.942467,-117.229675
+Huntington Park,United States of America,California,33.984932,-118.227821
+Hawthorne,United States of America,California,33.919434,-118.353996
+Bakersfield,United States of America,California,35.393528,-119.043732
+San Juan Capistrano,United States of America,California,33.501694,-117.662552
+Costa Mesa,United States of America,California,33.641132,-117.918671
+Santa Clara,United States of America,California,37.354107,-121.955238
+Ridgecrest,United States of America,California,35.633862,-117.679367
+Lawndale,United States of America,California,33.888088,-118.353477
+Salinas,United States of America,California,36.677738,-121.655502
+San Clemente,United States of America,California,33.426971,-117.611992
+Walnut,United States of America,California,34.02029,-117.865341
+Compton,United States of America,California,33.895847,-118.22007
+Lake Forest,United States of America,California,33.650066,-117.6931
+Rohnert Park,United States of America,California,38.339638,-122.701096
+Sunnyvale,United States of America,California,37.368832,-122.036346
+Monterey,United States of America,California,36.603954,-121.89846
+Riverside,United States of America,California,33.95335,-117.396156
+Gardena,United States of America,California,33.893787,-118.307991
+Santa Ana,United States of America,California,33.745571,-117.867836
+Anaheim,United States of America,California,33.835293,-117.914505
+Carlsbad,United States of America,California,33.158092,-117.350594
+Santa Maria,United States of America,California,34.963623,-120.424576
+Paso Robles,United States of America,California,35.640556,-120.680008
+Fresno,United States of America,California,36.746841,-119.772591
+South Gate,United States of America,California,33.956032,-118.211349
+La Puente,United States of America,California,34.020012,-117.949509
+Los Angeles,United States of America,California,34.052235,-118.243683
+Sacramento,United States of America,California,38.590576,-121.489906
+Fullerton,United States of America,California,33.876118,-117.92141
+Downey,United States of America,California,33.945068,-118.12809
+Saratoga,United States of America,California,37.266949,-122.025146
+Redlands,United States of America,California,34.055569,-117.182541
+Ontario,United States of America,California,34.068871,-117.651215
+Stockton,United States of America,California,37.961632,-121.275604
+Oxnard,United States of America,California,34.196411,-119.170898
+Santa Rosa,United States of America,California,38.44466,-122.720306
+Menifee,United States of America,California,33.680984,-117.1707
+Sacramento,United States of America,California,38.575764,-121.478851
+Simi Valley,United States of America,California,34.269447,-118.781479
+Colton,United States of America,California,34.075127,-117.30909
+Vallejo,United States of America,California,38.104088,-122.256638
+Mill Valley,United States of America,California,37.905182,-122.544006
+Bloomington,United States of America,California,34.069725,-117.39621
+San Francisco,United States of America,California,37.773972,-122.431297
+San Francisco,United States of America,California,37.733795,-122.446747
+Travis Air Force Base Fairfield,United States of America,California,38.272118,-121.939857
+Santa Monica Los Angeles,United States of America,California,34.024212,-118.496475
+San Pedro Los Angeles,United States of America,California,33.736061,-118.292244
+San Leandro Oakland,United States of America,California,37.725685,-122.15683
+La Jolla San Diego,United States of America,California,32.842674,-117.257767
+Mira Mesa San Diego,United States of America,California,32.918476,-117.138237
+Chino Hills,United States of America,California,33.989819,-117.732582
+Yuba City,United States of America,California,39.136986,-121.607841
+Cherry Creek Reservoir Aurora,United States of America,Colorado,39.644825,-104.845963
+Thornton,United States of America,Colorado,39.903057,-104.954445
+Aurora,United States of America,Colorado,39.710835,-104.8125
+Longmont,United States of America,Colorado,40.167206,-105.101929
+Eldorado Springs,United States of America,Colorado,39.932117,-105.281639
+Lakewood,United States of America,Colorado,39.71085,-105.081505
+Centennial,United States of America,Colorado,39.579231,-104.876694
+Castle Rock,United States of America,Colorado,39.374912,-104.853859
+Avon,United States of America,Colorado,39.633068,-106.522217
+Fort Collins,United States of America,Colorado,40.585258,-105.084419
+Commerce City,United States of America,Colorado,39.813019,-104.93351
+Arvada,United States of America,Colorado,39.803261,-105.090408
+Glenwood Springs,United States of America,Colorado,39.563354,-107.332993
+Greeley,United States of America,Colorado,40.391537,-104.681168
+Broomfield,United States of America,Colorado,39.92054,-105.086647
+Boulder,United States of America,Colorado,40.014984,-105.270546
+Ken Caryl,United States of America,Colorado,39.575821,-105.112206
+Westminster,United States of America,Colorado,39.842285,-105.043716
+Arvada,United States of America,Colorado,39.802765,-105.087486
+Loveland,United States of America,Colorado,40.398857,-105.052643
+Denver,United States of America,Colorado,39.742043,-104.991531
+Pueblo,United States of America,Colorado,38.276463,-104.604607
+Grand Junction,United States of America,Colorado,39.071445,-108.549728
+Colorado Springs,United States of America,Colorado,38.846127,-104.800644
+Waterbury,United States of America,Connecticut,41.55611,-73.041389
+Bridgeport,United States of America,Connecticut,41.18639,-73.195557
+Danbury,United States of America,Connecticut,41.394966,-73.454079
+New Haven,United States of America,Connecticut,41.308273,-72.927887
+Hamden,United States of America,Connecticut,41.385826,-72.904243
+New Haven,United States of America,Connecticut,41.310726,-72.929916
+New London,United States of America,Connecticut,41.355423,-72.10276
+Stamford,United States of America,Connecticut,41.053429,-73.538734
+Greenwich,United States of America,Connecticut,41.027054,-73.620071
+Norwich,United States of America,Connecticut,41.532227,-72.088852
+Meriden,United States of America,Connecticut,41.546616,-72.78923
+Stratford,United States of America,Connecticut,41.18454,-73.133163
+West Hartford,United States of America,Connecticut,41.762085,-72.742012
+Hartford,United States of America,Connecticut,41.76371,-72.685097
+Milford,United States of America,Connecticut,41.230698,-73.064034
+Dover,United States of America,Deleware,39.161079,-75.525681
+Wilmington,United States of America,Deleware,39.739071,-75.539787
+Newark,United States of America,Deleware,39.683723,-75.749657
+Stuart,United States of America,Florida,27.192223,-80.243057
+West Palm Beach,United States of America,Florida,26.709723,-80.064163
+Miami Gardens,United States of America,Florida,25.942122,-80.26992
+Miramar,United States of America,Florida,25.978889,-80.282501
+Pembroke Pines,United States of America,Florida,26.012501,-80.313614
+Tallahassee,United States of America,Florida,30.455,-84.253334
+Palm Beach Gardens,United States of America,Florida,26.838619,-80.129967
+Lake Worth,United States of America,Florida,26.616756,-80.068451
+Sanford,United States of America,Florida,28.807674,-81.274948
+Bradenton,United States of America,Florida,27.498928,-82.574821
+Dunedin,United States of America,Florida,28.018349,-82.764473
+Homestead,United States of America,Florida,25.468721,-80.477554
+Miami,United States of America,Florida,25.761681,-80.191788
+Jacksonville,United States of America,Florida,30.332184,-81.655647
+Tampa,United States of America,Florida,27.964157,-82.452606
+Port Orange,United States of America,Florida,29.138315,-80.995613
+Port Charlotte,United States of America,Florida,26.979605,-82.075424
+Ponte Vedra Beach,United States of America,Florida,30.240005,-81.385262
+The Villages,United States of America,Florida,28.927019,-82.003761
+North Fort Myers,United States of America,Florida,26.667294,-81.880089
+Ocala,United States of America,Florida,29.187199,-82.140091
+Haines City,United States of America,Florida,28.114183,-81.617851
+Davie,United States of America,Florida,26.076477,-80.252113
+Kissimmee,United States of America,Florida,28.291956,-81.40757
+Largo,United States of America,Florida,27.909468,-82.787323
+Palm Harbor,United States of America,Florida,28.078072,-82.76371
+Weston,United States of America,Florida,26.103039,-80.401382
+St. Petersburg,United States of America,Florida,27.773056,-82.639999
+Doral,United States of America,Florida,25.819542,-80.355331
+Deerfield Beach,United States of America,Florida,26.329422,-80.088615
+Titusville,United States of America,Florida,28.612219,-80.807556
+Cape Coral,United States of America,Florida,26.562855,-81.949532
+Daytona Beach,United States of America,Florida,29.218103,-81.031723
+Pensacola,United States of America,Florida,30.433283,-87.240372
+Cooper City,United States of America,Florida,26.05731,-80.271713
+Lakeland,United States of America,Florida,28.039465,-81.949806
+Palm Coast,United States of America,Florida,29.584452,-81.20787
+Key West,United States of America,Florida,24.555059,-81.779984
+Fort Lauderdale,United States of America,Florida,26.122438,-80.137314
+Pompano Beach,United States of America,Florida,26.247236,-80.106125
+Port St. Lucie,United States of America,Florida,27.29369,-80.353317
+Hialeah,United States of America,Florida,25.857595,-80.278107
+Fort Lauderdale,United States of America,Florida,26.139412,-80.133591
+Orlando,United States of America,Florida,28.538336,-81.379234
+Sarasota,United States of America,Florida,27.341274,-82.528267
+Clearwater,United States of America,Florida,27.972572,-82.796745
+Pompano Beach,United States of America,Florida,26.24354,-80.122948
+Palm Bay,United States of America,Florida,28.040169,-80.59433
+St. Cloud,United States of America,Florida,28.248901,-81.281181
+Hollywood,United States of America,Florida,26.01128,-80.142967
+Northside Jacksonville,United States of America,Florida,30.49015,-81.647346
+Fort Myers,United States of America,Florida,26.640629,-81.872307
+Marco Island,United States of America,Florida,25.940556,-81.714722
+Athens,United States of America,Georgia,33.950001,-83.383331
+Columbus,United States of America,Georgia,32.492222,-84.940277
+Augusta,United States of America,Georgia,33.466667,-81.966667
+East Point,United States of America,Georgia,33.679554,-84.439369
+Macon,United States of America,Georgia,32.838131,-83.634705
+Roswell,United States of America,Georgia,34.022003,-84.361549
+Johns Creek,United States of America,Georgia,34.028927,-84.198578
+Valdosta,United States of America,Georgia,30.832703,-83.278488
+Sandy Springs,United States of America,Georgia,33.935101,-84.360924
+Camilla,United States of America,Georgia,31.231293,-84.210464
+Atlanta,United States of America,Georgia,33.753746,-84.38633
+Marietta,United States of America,Georgia,33.952602,-84.549934
+Dunwoody,United States of America,Georgia,33.946213,-84.334648
+Mableton,United States of America,Georgia,33.818718,-84.582436
+Savannah,United States of America,Georgia,32.076176,-81.088371
+Calhoun,United States of America,Georgia,34.50169,-84.939697
+Cartersville,United States of America,Georgia,34.16608,-84.800613
+Lawrenceville,United States of America,Georgia,33.957245,-83.988441
+Honolulu,United States of America,Hawaii,21.315603,-157.858093
+Waikīkī ,United States of America,Hawaii,21.290014,-157.835938
+Davenport,United States of America,Iowa,41.543056,-90.590836
+Ames,United States of America,Iowa,42.034534,-93.620369
+Cedar Falls,United States of America,Iowa,42.534901,-92.445312
+Marion,United States of America,Iowa,42.033279,-91.596893
+Cedar Rapids,United States of America,Iowa,41.977879,-91.665627
+Iowa City,United States of America,Iowa,41.661129,-91.530167
+Meridian,United States of America,Idaho,43.614166,-116.398888
+Meridian,United States of America,Idaho,43.612343,-116.393707
+Eagle,United States of America,Idaho,43.695442,-116.354012
+Idaho Falls,United States of America,Idaho,43.49165,-112.033966
+Post Falls,United States of America,Idaho,47.712257,-116.948364
+Boise,United States of America,Idaho,43.618881,-116.215019
+Twin Falls,United States of America,Idaho,42.562786,-114.460503
+Nampa,United States of America,Idaho,43.565468,-116.560822
+Moscow,United States of America,Idaho,46.731705,-116.999939
+Logan Square CHicago,United States of America,Illinois,41.923122,-87.70929
+Springfield,United States of America,Illinois,39.799999,-89.650002
+Rockford,United States of America,Illinois,42.259445,-89.064445
+Aurora,United States of America,Illinois,41.763889,-88.290001
+Decatur,United States of America,Illinois,39.842468,-88.953148
+Des Plaines,United States of America,Illinois,42.033363,-87.8834
+Mt Prospect,United States of America,Illinois,42.066418,-87.937294
+Evanston,United States of America,Illinois,42.045597,-87.688568
+Champaign,United States of America,Illinois,40.116421,-88.243385
+Elgin,United States of America,Illinois,42.035408,-88.28257
+Bolingbrook,United States of America,Illinois,41.698643,-88.068398
+East Peoria,United States of America,Illinois,40.666149,-89.580101
+Buffalo Grove,United States of America,Illinois,42.166283,-87.963135
+Carbondale,United States of America,Illinois,37.701206,-89.22821
+Belleville,United States of America,Illinois,38.526684,-89.991074
+Galesburg,United States of America,Illinois,40.953976,-90.362549
+Schaumburg,United States of America,Illinois,42.03336,-88.083405
+Peoria,United States of America,Illinois,40.703545,-89.579086
+Chicago,United States of America,Illinois,41.881832,-87.623177
+Highland Park,United States of America,Illinois,42.190166,-87.786697
+Naperville,United States of America,Illinois,41.789234,-88.151894
+New Lenox,United States of America,Illinois,41.511921,-87.963577
+Pekin,United States of America,Illinois,40.568459,-89.643028
+Brighton,United States of America,Illinois,39.039055,-90.140678
+Joliet,United States of America,Illinois,41.520557,-88.150558
+South Bend,United States of America,Indiana,41.676388,-86.250275
+Evansville,United States of America,IN,37.977222,-87.550552
+Indianapolis,United States of America,IN,39.791,-86.148003
+Muncie,United States of America,IN,40.191891,-85.401695
+Hammond,United States of America,IN,41.58466,-87.50016
+Elkhart,United States of America,IN,41.681992,-85.976669
+Gary,United States of America,IN,41.595161,-87.356934
+Michigan City,United States of America,IN,41.723541,-86.899284
+West Lafayette,United States of America,IN,40.425869,-86.908066
+Lafayette,United States of America,IN,40.416702,-86.87529
+Columbus,United States of America,IN,39.201439,-85.921379
+Fort Wayne,United States of America,IN,41.093842,-85.139236
+Lebanon,United States of America,IN,40.052059,-86.470642
+Hobart,United States of America,IN,41.52914,-87.250328
+Anderson,United States of America,IN,40.109589,-85.676964
+Carmel,United States of America,Indiana,39.978371,-86.118042
+Greenwood,United States of America,Indiana,39.614944,-86.105606
+Des Moines,United States of America,Iowa,41.619549,-93.598022
+Decorah,United States of America,Iowa,43.303307,-91.785706
+Lexington,United States of America,Kentucky,38.047989,-84.50164
+Paducah,United States of America,Kentucky,37.086678,-88.60405
+Kansas City,United States of America,Kansas,39.106667,-94.676392
+Overland Park,United States of America,Kansas,38.984764,-94.677658
+Manhattan,United States of America,Kansas,39.183609,-96.571671
+Coffeyville,United States of America,Kansas,37.036064,-95.620537
+Shawnee,United States of America,Kansas,39.022846,-94.715187
+Olathe,United States of America,Kansas,38.881397,-94.81913
+Wichita,United States of America,Kansas,37.697948,-97.314835
+Leawood,United States of America,Kansas,38.966675,-94.616898
+Topeka,United States of America,Kansas,39.056198,-95.695312
+London,United States of America,Kentucky,37.129986,-84.084122
+Mt Sterling,United States of America,Kentucky,38.056469,-83.943253
+Louisville,United States of America,Kentucky,38.328732,-85.764771
+Hopkinsville,United States of America,Kentucky,36.865601,-87.488617
+Henderson,United States of America,Kentucky,37.840427,-87.578888
+Maysville,United States of America,Kentucky,38.641186,-83.744362
+Lafayette,United States of America,Louisiana,30.216667,-92.033333
+New Iberia,United States of America,Louisiana,30.005417,-91.818665
+Walker,United States of America,Louisiana,30.487968,-90.861488
+Lake Charles,United States of America,Louisiana,30.212942,-93.21891
+Marrero,United States of America,Louisiana,29.899372,-90.100349
+Metairie,United States of America,Louisiana,29.984093,-90.152855
+New Orleans,United States of America,Louisiana,29.951065,-90.071533
+Baton Rouge,United States of America,Louisiana,30.471165,-91.147385
+Bossier City,United States of America,Louisiana,32.515984,-93.732124
+Ruston,United States of America,Louisiana,32.523205,-92.637924
+Shreveport,United States of America,Louisiana,32.523659,-93.763504
+Gloster,United States of America,Louisiana,32.190994,-93.814903
+Franklinton,United States of America,Louisiana,30.847425,-90.154503
+Dorchester Boston,United States of America,Massachusetts,42.302708,-71.072105
+Cambridge,United States of America,Massachusetts,42.373611,-71.110558
+Springfield,United States of America,Massachusetts,42.101391,-72.590279
+Worcester,United States of America,Massachusetts,42.271389,-71.798889
+Boston,United States of America,Massachusetts,42.361145,-71.057083
+Revere,United States of America,Massachusetts,42.408428,-71.011993
+Fall River,United States of America,Massachusetts,41.696629,-71.149994
+Lynn,United States of America,Massachusetts,42.466763,-70.949493
+Lowell,United States of America,Massachusetts,42.640999,-71.316711
+Salem,United States of America,Massachusetts,42.519539,-70.896713
+Tewksbury,United States of America,Massachusetts,42.610649,-71.234222
+Quincy,United States of America,Massachusetts,42.255459,-71.002579
+Haverhill,United States of America,Massachusetts,42.776199,-71.077278
+Brockton,United States of America,Massachusetts,42.083431,-71.018379
+Pembroke,United States of America,Massachusetts,42.071491,-70.809196
+Needham,United States of America,Massachusetts,42.28093,-71.237755
+Chelmsford,United States of America,Massachusetts,42.598713,-71.363625
+Methuen,United States of America,Massachusetts,42.7262,-71.190895
+Chicopee,United States of America,Massachusetts,42.155258,-72.60006
+Frederick,United States of America,Maryland,39.412327,-77.425461
+Dundalk,United States of America,Maryland,39.250664,-76.520515
+Germantown,United States of America,Maryland,39.173161,-77.271652
+Annapolis,United States of America,Maryland,38.978443,-76.49218
+Silver Spring,United States of America,Maryland,38.994373,-77.029778
+Bethesda,United States of America,Maryland,38.984653,-77.094711
+Hyattsville,United States of America,Maryland,38.955944,-76.945534
+Laurel,United States of America,Maryland,39.109818,-76.840439
+Baltimore,United States of America,Maryland,39.299236,-76.609383
+Clinton,United States of America,Maryland,38.768005,-76.897087
+Bowie,United States of America,Maryland,39.013313,-76.776924
+Hyattsville,United States of America,Maryland,38.956341,-76.941719
+Suitland-Silver Hill,United States of America,Maryland,38.84861,-76.924446
+Bangor,United States of America,Maine,44.808147,-68.795013
+Clinton,United States of America,Michigan,42.586945,-82.919998
+Sterling Heights,United States of America,Michigan,42.580276,-83.030281
+Novi,United States of America,Michigan,42.480591,-83.475494
+Dearborn Heights,United States of America,Michigan,42.336983,-83.273262
+Muskegon,United States of America,Michigan,43.224194,-86.235809
+Grand Rapids,United States of America,Michigan,42.963795,-85.670006
+Westland,United States of America,Michigan,42.324268,-83.399017
+Garden City,United States of America,Michigan,42.325569,-83.330933
+Rochester Hills,United States of America,Michigan,42.658516,-83.152725
+Dearborn,United States of America,Michigan,42.322262,-83.176315
+Pontiac,United States of America,Michigan,42.638924,-83.291046
+Battle Creek,United States of America,Michigan,42.321152,-85.17971
+Warren,United States of America,Michigan,42.491943,-83.023888
+Lansing,United States of America,Michigan,42.732536,-84.555534
+Flint,United States of America,Michigan,43.016193,-83.705521
+Jackson,United States of America,Michigan,42.245777,-84.405968
+Livonia,United States of America,Michigan,42.36837,-83.352707
+Midland,United States of America,Michigan,43.618183,-84.234238
+Mio,United States of America,Michigan,44.652237,-84.12973
+Kalamazoo,United States of America,Michigan,42.299152,-85.591736
+Southfield,United States of America,Michigan,42.475136,-83.221275
+Ann Arbor,United States of America,Michigan,42.279594,-83.732124
+Detroit,United States of America,Michigan,42.331429,-83.045753
+Carthage,United States of America,Mississippi,32.732635,-89.536179
+Joplin,United States of America,Missouri,37.084229,-94.513283
+Independence,United States of America,Missouri,39.091118,-94.415504
+Bloomington,United States of America,Minnesota,44.840797,-93.298279
+Rochester,United States of America,Minnesota,44.016369,-92.475395
+St Cloud,United States of America,Minnesota,45.56023,-94.172852
+Hugo,United States of America,Minnesota,45.159966,-92.99334
+St Paul,United States of America,Minnesota,44.949642,-93.093124
+Eden Prairie,United States of America,Minnesota,44.852463,-93.475113
+Edina,United States of America,Minnesota,44.889687,-93.349953
+Winona,United States of America,Minnesota,44.049999,-91.633331
+Minneapolis,United States of America,Minnesota,44.986656,-93.258133
+Saint Paul,United States of America,Minnesota,44.953705,-93.089958
+Eagan,United States of America,Minnesota,44.804131,-93.166885
+Duluth,United States of America,Minnesota,46.786671,-92.100487
+Bemidji,United States of America,Minnesota,47.481018,-94.888229
+Minnetonka,United States of America,Minnesota,44.921185,-93.46875
+Brainerd,United States of America,Minnesota,46.355934,-94.201408
+Richfield,United States of America,Minnesota,44.883244,-93.28624
+Saint Paul,United States of America,Minnesota,44.954445,-93.091301
+Oakdale,United States of America,Minnesota,44.963219,-92.964417
+Fulton,United States of America,Missouri,38.846668,-91.948059
+Kansas City,United States of America,Missouri,39.099724,-94.578331
+Saint Charles,United States of America,Missouri,38.788105,-90.497437
+O'Fallon,United States of America,Missouri,38.810608,-90.699844
+Lee's Summit,United States of America,Missouri,38.910843,-94.382172
+St. Peters,United States of America,Missouri,38.787472,-90.62989
+Jefferson City,United States of America,Missouri,38.579575,-92.174782
+St. Louis,United States of America,Missouri,38.627003,-90.199402
+St. Joseph,United States of America,Missouri,39.766853,-94.834152
+Rolla,United States of America,Missouri,37.951424,-91.768959
+Columbia,United States of America,Mississippi,38.951561,-92.328636
+Springfield,United States of America,Mississippi,-93.298332,-93.298332
+Biloxi,United States of America,Mississippi,30.396032,-88.885307
+Hattiesburg,United States of America,Mississippi,31.32712,-89.290337
+Jackson,United States of America,Mississippi,32.298756,-90.184807
+Gulfport,United States of America,Mississippi,30.36742,-89.092819
+Meridian,United States of America,Mississippi,32.364311,-88.703659
+Southaven,United States of America,Mississippi,34.988983,-90.012589
+Attleboro,United States of America,Mississippi,41.944546,-71.285606
+Columbus,United States of America,Mississippi,33.495674,-88.427261
+Great Falls,United States of America,Montana,47.506187,-111.283691
+Helena,United States of America,Montana,46.595806,-112.027031
+Billings,United States of America,Montana,45.787636,-108.489304
+High Point,United States of America,North Carolina,35.970554,-79.997498
+Gastonia,United States of America,North Carolina,35.25528,-81.180275
+Greenville,United States of America,North Carolina,35.612659,-77.366356
+Grifton,United States of America,North Carolina,35.372662,-77.437462
+Cary,United States of America,North Carolina,35.791538,-78.78112
+Fayetteville,United States of America,North Carolina,35.052666,-78.878357
+Raleigh,United States of America,North Carolina,35.787743,-78.644257
+Wilmington,United States of America,North Carolina,34.225727,-77.94471
+Durham,United States of America,North Carolina,35.994034,-78.898621
+Winston-Salem,United States of America,North Carolina,36.099861,-80.244217
+Greensboro,United States of America,North Carolina,36.044659,-79.766235
+Elizabeth City,United States of America,North Carolina,36.302952,-76.245804
+Charlotte,United States of America,North Carolina,35.227085,-80.843124
+Fargo,United States of America,North Dakota,46.877186,-96.789803
+Bismarck,United States of America,North Dakota,46.825905,-100.778275
+Williston,United States of America,North Dakota,48.146969,-103.617973
+Omaha,United States of America,Nebraska,41.25716,-95.995102
+Grand Island,United States of America,Nebraska,40.929077,-98.368149
+Lincoln,United States of America,Nebraska,40.806862,-96.681679
+Nashua,United States of America,New Hampshire,42.765366,-71.467567
+Manchester,United States of America,New Hampshire,43.008663,-71.454391
+Woodbridge,United States of America,New Jersey,40.560001,-74.290001
+Paterson,United States of America,New Jersey,40.914745,-74.162827
+Jersey City,United States of America,New Jersey,40.728157,-74.077644
+Edison,United States of America,New Jersey,40.522964,-74.411674
+Toms River,United States of America,New Jersey,39.954639,-74.198456
+Newark,United States of America,New Jersey,40.735657,-74.172363
+Old Bridge Township,United States of America,New Jersey,40.402714,-74.305428
+Cherry Hill,United States of America,New Jersey,39.926811,-75.024628
+Lakewood Township,United States of America,New Jersey,40.087528,-74.208183
+Union,United States of America,New Jersey,40.702503,-74.261398
+Elizabeth,United States of America,New Jersey,40.666058,-74.200974
+Brick,United States of America,New Jersey,40.060272,-74.139343
+Bayonne,United States of America,New Jersey,40.668713,-74.114311
+Lambertville,United States of America,New Jersey,40.36594,-74.942947
+Trenton,United States of America,New Jersey,40.217052,-74.742935
+Atlantic Highlands,United States of America,New Jersey,40.413757,-74.041245
+Rio Rancho,United States of America,New Mexico,35.226997,-106.675461
+Las Cruces,United States of America,New Mexico,32.346596,-106.78772
+Jal,United States of America,New Mexico,32.113182,-103.193512
+Farmington,United States of America,New Mexico,36.733379,-108.213272
+Albuquerque,United States of America,New Mexico,35.106766,-106.629181
+Santa Fe,United States of America,New Mexico,35.691544,-105.944183
+Concord,United States of America,North Carolina,35.408752,-80.579514
+Sparks,United States of America,Nevada,39.554443,-119.735558
+North Las Vegas,United States of America,Nevada,36.201946,-115.120216
+Henderson,United States of America,Nevada,36.039524,-114.98172
+Sunrise Manor,United States of America,Nevada,36.211082,-115.073059
+Las Vegas,United States of America,Nevada,36.114647,-115.172813
+Reno,United States of America,Nevada,39.530895,-119.814972
+Yonkers,United States of America,New York,40.93121,-73.89875
+Cheektowaga,United States of America,New York,42.902615,-78.744576
+Syracuse,United States of America,New York,43.088947,-76.15448
+White Plains,United States of America,New York,41.033985,-73.762909
+Greece,United States of America,New York,43.209785,-77.693062
+Smithtown,United States of America,New York,40.85593,-73.200668
+Hempstead,United States of America,New York,40.706928,-73.621788
+Niagara Falls,United States of America,New York,43.092461,-79.04715
+Levittown,United States of America,New York,40.725933,-73.51429
+Rochester,United States of America,New York,43.16103,-77.610924
+Buffalo,United States of America,New York,42.88023,-78.878738
+Poughkeepsie,United States of America,New York,41.70829,-73.923912
+Watertown,United States of America,New York,43.974785,-75.910759
+New York City,United States of America,New York,40.73061,-73.935242
+Jamaica,United States of America,New York,40.699783,-73.786026
+New City,United States of America,New York,41.147594,-73.989304
+Garden City Park,United States of America,New York,40.740364,-73.662727
+Oyster Bay,United States of America,New York,40.865635,-73.532326
+Albany,United States of America,New York,42.65258,-73.756233
+Bedford,United States of America,Ohio,41.392502,-81.534447
+Columbus,United States of America,Ohio,39.983334,-82.98333
+Springfield,United States of America,Ohio,39.925751,-83.806694
+Akron,United States of America,Ohio,41.081757,-81.511452
+Youngstown,United States of America,Ohio,41.10297,-80.647247
+Eastlake,United States of America,Ohio,41.653934,-81.450394
+Canton,United States of America,Ohio,40.798946,-81.378448
+Cincinnati,United States of America,Ohio,39.103119,-84.512016
+Dayton,United States of America,Ohio,39.758949,-84.191605
+Westlake,United States of America,Ohio,41.46331,-81.915436
+Mansfield,United States of America,Ohio,40.763901,-82.503891
+Cleveland,United States of America,Ohio,41.505493,-81.68129
+Bowling Green,United States of America,Ohio,41.374775,-83.651321
+Perrysburg,United States of America,Ohio,41.568916,-83.640564
+Mentor,United States of America,Ohio,41.659576,-81.372299
+Toledo,United States of America,Ohio,41.651031,-83.541939
+Alliance,United States of America,Ohio,40.915337,-81.105934
+Wooster,United States of America,Ohio,40.7202,-81.874237
+Massillon,United States of America,Ohio,40.787819,-81.519585
+Mannford,United States of America,Oklahoma,36.133411,-96.354454
+Owasso,United States of America,Oklahoma,36.269539,-95.854713
+Norman,United States of America,Oklahoma,35.222569,-97.439476
+Lawton,United States of America,Oklahoma,34.603565,-98.395927
+Edmond,United States of America,Oklahoma,35.657295,-97.478256
+Enid,United States of America,Oklahoma,36.395588,-97.878387
+Tulsa,United States of America,Oklahoma,36.15398,-95.992775
+Moore,United States of America,Oklahoma,35.339508,-97.486702
+Broken Arrow,United States of America,Oklahoma,36.056561,-95.783516
+Enid,United States of America,Oklahoma,36.395588,-97.878387
+Oklahoma City,United States of America,Oklahoma,35.481918,-97.508469
+Gresham Terrace,United States of America,Oregon,45.502842,-122.427444
+Albany,United States of America,Oregon,44.636513,-123.105927
+Hillsboro,United States of America,Oregon,45.522896,-122.98983
+Medford,United States of America,Oregon,42.326515,-122.875595
+Portland,United States of America,Oregon,45.523064,-122.676483
+Corvallis,United States of America,Oregon,44.564568,-123.262047
+Springfield,United States of America,Oregon,44.046204,-123.023346
+Beaverton,United States of America,Oregon,45.485168,-122.804489
+Bend,United States of America,Oregon,44.058174,-121.315308
+Eugene,United States of America,Oregon,44.052071,-123.086754
+Ashland,United States of America,Oregon,42.194576,-122.70948
+Salem,United States of America,Oregon,44.944099,-123.040283
+Hermiston,United States of America,Oregon,45.845543,-119.292641
+Tigard Portland ,United States of America,Oregon,45.431767,-122.770454
+Wilkes-Barre,United States of America,Pennsylvania,41.245708,-75.881241
+Philadelphia,United States of America,Pennsylvania,39.952583,-75.165222
+Erie,United States of America,Pennsylvania,42.129223,-80.08506
+Havertown,United States of America,Pennsylvania,39.981461,-75.309387
+Williamsport,United States of America,Pennsylvania,41.242451,-77.002831
+Erie,United States of America,Pennsylvania,42.129223,-80.08506
+Harrisburg,United States of America,Pennsylvania,40.26368,-76.890739
+Reading,United States of America,Pennsylvania,40.335648,-75.926872
+Scranton,United States of America,Pennsylvania,41.40897,-75.662415
+Scranton,United States of America,Pennsylvania,41.414925,-75.669708
+Canonsburg,United States of America,Pennsylvania,40.262569,-80.187279
+Lancaster,United States of America,Pennsylvania,40.044437,-76.306229
+Chester,United States of America,Pennsylvania,39.853886,-75.358658
+Scranton,United States of America,Pennsylvania,41.411835,-75.665245
+Allentown,United States of America,Pennsylvania,40.613953,-75.477791
+Cranberry Township,United States of America,Pennsylvania,40.682201,-80.104919
+Allentown,United States of America,Pennsylvania,40.610306,-75.477104
+Pittsburgh,United States of America,Pennsylvania,40.440624,-79.995888
+Foster,United States of America,Rhode Island,41.85371,-71.758125
+Providence,United States of America,Rhode Island,41.825226,-71.418884
+Orangeburg,United States of America,South Carolina,33.493317,-80.855415
+Chester,United States of America,South Carolina,34.704929,-81.210251
+Greenville,United States of America,South Carolina,34.852619,-82.394012
+Rock Hill,United States of America,South Carolina,34.924866,-81.025078
+Anderson,United States of America,South Carolina,34.503441,-82.650131
+Florence,United States of America,South Carolina,34.195435,-79.762566
+North Charleston,United States of America,South Carolina,32.854622,-79.974808
+Charleston,United States of America,South Carolina,32.776566,-79.930923
+Aiken,United States of America,South Carolina,33.566574,-81.719398
+Georgetown,United States of America,South Carolina,33.373474,-79.288521
+Rapid City,United States of America,South Dakota,44.080544,-103.231018
+Brookings,United States of America,South Dakota,44.311356,-96.798386
+Plankinton,United States of America,South Dakota,43.71479,-98.484451
+Charleston,United States of America,South Carolina,32.784618,-79.940918
+Sioux Falls,United States of America,South Dakota,43.536388,-96.731667
+Uvalde,United States of America,Texas,29.209684,-99.786171
+Anderson,United States of America,Texas,30.4874,-95.987228
+Murfreesboro,United States of America,Tennessee,35.846111,-86.391945
+Memphis,United States of America,Tennessee,35.1175,-89.971107
+Franklin,United States of America,Tennessee,35.925064,-86.868889
+Clarksville,United States of America,Tennessee,36.531364,-87.353767
+Bartlett,United States of America,Tennessee,35.204441,-89.87381
+Maryville,United States of America,Tennessee,35.760059,-83.96685
+Brentwood,United States of America,Tennessee,36.033115,-86.782776
+Chattanooga,United States of America,Tennessee,35.045631,-85.309677
+Oak Ridge,United States of America,Tennessee,36.010357,-84.269646
+Cleveland,United States of America,Tennessee,35.159519,-84.87661
+Nashville,United States of America,Tennessee,36.174465,-86.76796
+Kingsport,United States of America,Tennessee,36.548435,-82.561821
+Mount Juliet,United States of America,Tennessee,36.200928,-86.519737
+Newport,United States of America,Tennessee,35.964279,-83.182152
+Elizabethton,United States of America,Tennessee,36.352879,-82.207649
+Knoxville,United States of America,Tennessee,35.964668,-83.926453
+Gatlinburg,United States of America,Tennessee,35.714321,-83.510391
+Alief Houston,United States of America,Texas,29.68272,-95.593239
+San Angelo,United States of America,Texas,31.442778,-100.450279
+Tyler,United States of America,Texas,32.349998,-95.300003
+League City,United States of America,Texas,29.499722,-95.089722
+Lewisville,United States of America,Texas,33.038334,-97.006111
+College Station,United States of America,Texas,30.601389,-96.314445
+Richardson,United States of America,Texas,32.965557,-96.715836
+Amarillo,United States of America,Texas,35.199165,-101.845276
+Garland,United States of America,Texas,32.907223,-96.635277
+Arlington,United States of America,Texas,32.705002,-97.12278
+Austin,United States of America,Texas,30.266666,-97.73333
+Dallas,United States of America,Texas,32.779167,-96.808891
+New Braunfels,United States of America,Texas,29.700001,-98.116669
+Houston,United States of America,Texas,29.749907,-95.358421
+Odessa,United States of America,Texas,31.845682,-102.367645
+McAllen,United States of America,Texas,26.203407,-98.230011
+Pasadena,United States of America,Texas,29.691063,-95.209099
+Carrollton,United States of America,Texas,32.974586,-96.8899
+North Richland Hills,United States of America,Texas,32.834293,-97.228905
+Round Rock,United States of America,Texas,30.508255,-97.678894
+Grand Saline,United States of America,Texas,32.673466,-95.709404
+Abilene,United States of America,Texas,32.448734,-99.733147
+Victoria,United States of America,Texas,28.798952,-97.028503
+Big Spring,United States of America,Texas,32.250992,-101.479073
+Spring,United States of America,Texas,30.085136,-95.425186
+Midland,United States of America,Texas,32.000507,-102.077408
+Sugar Land,United States of America,Texas,29.619678,-95.634949
+Flower Mound,United States of America,Texas,33.014568,-97.096954
+Plano,United States of America,Texas,33.019844,-96.698883
+Haltom City,United States of America,Texas,32.799576,-97.26918
+Brownsville,United States of America,Texas,25.901747,-97.497482
+Port Arthur,United States of America,Texas,29.884951,-93.939949
+Allen,United States of America,Texas,33.103172,-96.670547
+DeSoto,United States of America,Texas,32.596287,-96.862679
+Killeen,United States of America,Texas,31.117119,-97.727798
+Friendswood,United States of America,Texas,29.5294,-95.201042
+Conroe,United States of America,Texas,30.311876,-95.456055
+Irving,United States of America,Texas,32.819595,-96.945419
+Nacogdoches,United States of America,Texas,31.603514,-94.655487
+Cedar Park,United States of America,Texas,30.505198,-97.82029
+Temple,United States of America,Texas,31.105862,-97.353287
+San Marcos,United States of America,Texas,29.890661,-97.91153
+Grand Prairie,United States of America,Texas,32.738773,-97.003098
+McKinney,United States of America,Texas,33.214561,-96.614456
+Beaumont,United States of America,Texas,30.080173,-94.126556
+Frisco,United States of America,Texas,33.155373,-96.818733
+Georgetown,United States of America,Texas,30.633263,-97.677986
+Pearland,United States of America,Texas,29.563902,-95.28511
+Carlsbad,United States of America,Texas,31.604727,-100.640228
+Wichita Falls,United States of America,Texas,33.930828,-98.484879
+Wylie,United States of America,Texas,33.015572,-96.536346
+El Paso,United States of America,Texas,31.772543,-106.460953
+Fort Worth,United States of America,Texas,32.768799,-97.309341
+Fresno,United States of America,Texas,29.540457,-95.448189
+Beaumont,United States of America,Texas,30.081987,-94.118637
+Lubbock,United States of America,Texas,33.576698,-101.855072
+Longview,United States of America,Texas,32.514885,-94.737236
+Seminole,United States of America,Texas,32.719276,-102.644661
+Corpus Christi,United States of America,Texas,27.800583,-97.396378
+Baytown,United States of America,Texas,29.733303,-94.978134
+Denton,United States of America,Texas,33.21484,-97.133064
+San Antonio,United States of America,Texas,29.424349,-98.491142
+Salt Lake City,United States of America,Utah,40.758701,-111.876183
+Liberty Park Salt Lake City,United States of America,Utah,40.746445,-111.874916
+West Jordan,United States of America,Utah,40.606388,-111.976112
+West Valley City,United States of America,Utah,40.689167,-111.993889
+Hyrum,United States of America,Utah,41.632893,-111.85112
+Murray,United States of America,Utah,40.666893,-111.887993
+Lehi,United States of America,Utah,40.391617,-111.850769
+St. George,United States of America,Utah,37.095169,-113.575974
+Provo,United States of America,Utah,40.233845,-111.658531
+Bountiful,United States of America,Utah,40.889389,-111.880768
+Cedar City,United States of America,Utah,37.680492,-113.061722
+Orem,United States of America,Utah,40.296898,-111.694649
+Spanish Fork,United States of America,Utah,40.114956,-111.654922
+Richfield,United States of America,Utah,38.769287,-112.088409
+Hampton,United States of America,Virginia,37.034946,-76.360123
+Newport News,United States of America,Virginia,37.070831,-76.484444
+Richmond,United States of America,Virginia,37.54129,-77.434769
+Norfolk,United States of America,Virginia,36.850769,-76.285873
+Petersburg,United States of America,Virginia,37.227928,-77.401924
+Lynchburg,United States of America,Virginia,37.412762,-79.146042
+Virginia Beach,United States of America,Virginia,36.86314,-76.015778
+Yorktown,United States of America,Virginia,37.238754,-76.509674
+Centreville,United States of America,Virginia,38.840389,-77.428879
+Portsmouth,United States of America,Virginia,36.835426,-76.298271
+Oakton,United States of America,Virginia,38.880943,-77.300819
+Woodbridge,United States of America,Virginia,38.658707,-77.257919
+Alexandria,United States of America,Virginia,38.82045,-77.050552
+Fredericksburg,United States of America,Virginia,38.309875,-77.466316
+Manassas Park,United States of America,Virginia,38.784225,-77.45945
+Chesapeake,United States of America,Virginia,36.779591,-76.288376
+Suffolk,United States of America,Virginia,36.73283,-76.579002
+Springfield,United States of America,Virginia,38.788612,-77.174316
+Stafford,United States of America,Virginia,38.422932,-77.407997
+South Burlington,United States of America,Vermont,44.466995,-73.170959
+Burlington,United States of America,Vermont,44.475883,-73.212074
+Vancouver,United States of America,Washington,45.633331,-122.599998
+Issaquah,United States of America,Washington,47.530102,-122.032616
+Yakima,United States of America,Washington,46.60207,-120.505898
+Kent,United States of America,Washington,47.380932,-122.23484
+Bellevue,United States of America,Washington,47.610378,-122.200676
+Redmond,United States of America,Washington,47.673988,-122.121513
+Kent,United States of America,Washington,47.37801,-122.237381
+Olympia,United States of America,Washington,47.037872,-122.900696
+Burien,United States of America,Washington,47.470379,-122.346794
+Mercer Island,United States of America,Washington,47.570656,-122.222069
+Auburn,United States of America,Washington,47.307323,-122.228455
+Puyallup,United States of America,Washington,47.185379,-122.2929
+Spokane,United States of America,Washington,47.658779,-117.426048
+Tacoma,United States of America,Washington,47.258728,-122.465973
+Everett,United States of America,Washington,47.982567,-122.193375
+Renton,United States of America,Washington,47.48288,-122.217064
+Shoreline,United States of America,Washington,47.755653,-122.341515
+Seattle,United States of America,Washington,47.608013,-122.335167
+Bellingham,United States of America,Washington,48.769768,-122.485886
+Federal Way,United States of America,Washington,47.322323,-122.312622
+Mukilteo,United States of America,Washington,47.947079,-122.303864
+Lakewood,United States of America,Washington,47.171764,-122.518456
+Green Bay,United States of America,Wisconsin,44.513332,-88.015831
+Madison,United States of America,Wisconsin,43.073051,-89.40123
+Racine,United States of America,Wisconsin,42.722702,-87.784225
+Kenosha,United States of America,Wisconsin,42.588081,-87.822899
+Eau Claire,United States of America,Wisconsin,44.811348,-91.498497
+La Crosse,United States of America,Wisconsin,43.801357,-91.239578
+Brookfield,United States of America,Wisconsin,43.061615,-88.107948
+Fond du Lac,United States of America,Wisconsin,43.774071,-88.455734
+Milwaukee,United States of America,Wisconsin,43.038902,-87.906471
+Fitchburg,United States of America,Wisconsin,43.002316,-89.424095
+Oshkosh,United States of America,Wisconsin,44.034294,-88.547745
+Huntington,United States of America,West Virginia,38.413651,-82.446732
+Charleston,United States of America,West Virginia,38.349819,-81.632622
+Cheyenne,United States of America,Wyoming,41.161079,-104.80545

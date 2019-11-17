@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_11_13_173334) do
+ActiveRecord::Schema.define(version: 2019_11_15_071447) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -30,6 +30,21 @@ ActiveRecord::Schema.define(version: 2019_11_13_173334) do
     t.string "region"
     t.string "latitude"
     t.string "longitude"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+  end
+
+  create_table "national_parks", force: :cascade do |t|
+    t.string "name"
+    t.string "city"
+    t.string "region"
+    t.string "country"
+    t.string "latitude"
+    t.string "longitude"
+    t.string "description"
+    t.string "size"
+    t.string "website"
+    t.string "image_url"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -54,8 +69,9 @@ ActiveRecord::Schema.define(version: 2019_11_13_173334) do
   create_table "users", force: :cascade do |t|
     t.string "first_name"
     t.string "last_name"
-    t.string "user_name"
-    t.string "password"
+    t.string "username"
+    t.string "email"
+    t.string "password_digest"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
