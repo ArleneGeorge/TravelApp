@@ -4,6 +4,8 @@
 
 Travel Planner allows users to search over 740 Cities and to add any that are missing. Click on a city to view any nearby National Parks and to find local places to eat and drink. 
 
+This API has over 740 US cities, 10,500 restaurants/breweries, and 65 National Parks 
+
 #### [View GitHub Repo for Travel Planner Frontend](https://github.com/ArleneGeorge/TravelAppFrontEnd/blob/master/README.md)
 
 ## [View Deployed Web Application](https://travel-planning-app-112019.web.app/)
@@ -14,9 +16,11 @@ Travel Planner allows users to search over 740 Cities and to add any that are mi
 
 3. Enter rails db:migrate into the terminal to create the tables needed for this web application. 
 
-4. Enter bundle install into the terminal to make sure all necessary gems for running the web application  are installed. 
+4. Enter rails db:seed to add the cities, restaurants, breweries, and National Parks to the tables.
 
-5. Enter rails s into the terminal to start the server for the Back-End. 
+5. Enter bundle install into the terminal to make sure all necessary gems for running the web application  are installed. 
+
+6. Enter rails s into the terminal to start the server for the Back-End. 
 
 
 
